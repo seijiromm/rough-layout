@@ -1,0 +1,13 @@
+* SPICE FET model
+.lib 'mos_tt.lib'
+mfet1 4 3 5 1 pch w=18u l=2u
+mfet2 1 2 5 1 pch w=18u l=2u
+mfet3 0 3 4 0 nch w=6u l=2u
+mfet4 0 2 4 0 nch w=6u l=2u
+.end
+** Net name table **
+*$ Gnd	0
+*$ Vdd	1
+*$ A	2
+*$ B	3
+*$ Y	4

@@ -1,0 +1,15 @@
+;@DRC@(65 110) element gap<2um
+B 65 110 149 111
+; --> DRC(element gap) in (65,110)x(149,111)
+;@DRC@(149 110) element gap<2um
+B 149 110 151 111
+; --> DRC(element gap) in (149,110)x(151,111)
+;@DRC@(147 16) element gap<2um
+B 147 16 149 17
+; --> DRC(element gap) in (147,16)x(149,17)
+;@DRC@(65 16) element gap<2um
+B 65 16 147 17
+; --> DRC(element gap) in (65,16)x(147,17)
+;@DRC@(63 16) element gap<2um
+B 63 16 65 17
+; --> DRC(element gap) in (63,16)x(65,17)

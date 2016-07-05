@@ -1,0 +1,176 @@
+* SPICE FET model
+.lib 'mos_tt.lib'
+mfet1 3 32 33 3 pch w=18u l=2u
+mfet2 3 5 4 3 pch w=18u l=2u
+mfet3 3 30 33 3 pch w=18u l=2u
+mfet4 3 6 5 3 pch w=18u l=2u
+mfet5 3 33 7 3 pch w=18u l=2u
+mfet6 3 0 5 3 pch w=18u l=2u
+mfet7 3 28 31 3 pch w=18u l=2u
+mfet8 3 11 10 3 pch w=18u l=2u
+mfet9 3 26 31 3 pch w=18u l=2u
+mfet10 3 4 11 3 pch w=18u l=2u
+mfet11 3 31 30 3 pch w=18u l=2u
+mfet12 3 8 11 3 pch w=18u l=2u
+mfet13 3 24 27 3 pch w=18u l=2u
+mfet14 3 15 14 3 pch w=18u l=2u
+mfet15 3 22 27 3 pch w=18u l=2u
+mfet16 3 10 15 3 pch w=18u l=2u
+mfet17 3 27 26 3 pch w=18u l=2u
+mfet18 3 12 15 3 pch w=18u l=2u
+mfet19 3 20 23 3 pch w=18u l=2u
+mfet20 3 19 18 3 pch w=18u l=2u
+mfet21 3 18 23 3 pch w=18u l=2u
+mfet22 3 14 19 3 pch w=18u l=2u
+mfet23 3 23 22 3 pch w=18u l=2u
+mfet24 3 16 19 3 pch w=18u l=2u
+mfet25 3 33 32 3 pch w=18u l=2u
+mfet26 1 0 3 3 pch w=18u l=2u
+mfet27 3 29 32 3 pch w=18u l=2u
+mfet28 0 7 3 3 pch w=18u l=2u
+mfet29 3 32 6 3 pch w=18u l=2u
+mfet30 0 5 3 3 pch w=18u l=2u
+mfet31 3 31 28 3 pch w=18u l=2u
+mfet32 3 8 9 3 pch w=18u l=2u
+mfet33 3 25 28 3 pch w=18u l=2u
+mfet34 3 1 8 3 pch w=18u l=2u
+mfet35 3 28 29 3 pch w=18u l=2u
+mfet36 3 11 8 3 pch w=18u l=2u
+mfet37 3 27 24 3 pch w=18u l=2u
+mfet38 3 12 13 3 pch w=18u l=2u
+mfet39 3 21 24 3 pch w=18u l=2u
+mfet40 3 9 12 3 pch w=18u l=2u
+mfet41 3 24 25 3 pch w=18u l=2u
+mfet42 3 15 12 3 pch w=18u l=2u
+mfet43 3 23 20 3 pch w=18u l=2u
+mfet44 3 16 17 3 pch w=18u l=2u
+mfet45 3 17 20 3 pch w=18u l=2u
+mfet46 3 13 16 3 pch w=18u l=2u
+mfet47 3 20 21 3 pch w=18u l=2u
+mfet48 3 19 16 3 pch w=18u l=2u
+mfet49 2 32 33 2 nch w=6u l=2u
+mfet50 2 5 4 2 nch w=6u l=2u
+mfet51 2 30 33 2 nch w=6u l=2u
+mfet52 2 6 5 2 nch w=6u l=2u
+mfet53 2 33 7 2 nch w=6u l=2u
+mfet54 2 0 5 2 nch w=6u l=2u
+mfet55 2 28 31 2 nch w=6u l=2u
+mfet56 2 11 10 2 nch w=6u l=2u
+mfet57 2 26 31 2 nch w=6u l=2u
+mfet58 2 4 11 2 nch w=6u l=2u
+mfet59 2 31 30 2 nch w=6u l=2u
+mfet60 2 8 11 2 nch w=6u l=2u
+mfet61 2 24 27 2 nch w=6u l=2u
+mfet62 2 15 14 2 nch w=6u l=2u
+mfet63 2 22 27 2 nch w=6u l=2u
+mfet64 2 10 15 2 nch w=6u l=2u
+mfet65 2 27 26 2 nch w=6u l=2u
+mfet66 2 12 15 2 nch w=6u l=2u
+mfet67 2 20 23 2 nch w=6u l=2u
+mfet68 2 19 18 2 nch w=6u l=2u
+mfet69 2 18 23 2 nch w=6u l=2u
+mfet70 2 14 19 2 nch w=6u l=2u
+mfet71 2 23 22 2 nch w=6u l=2u
+mfet72 2 16 19 2 nch w=6u l=2u
+mfet73 2 33 32 2 nch w=6u l=2u
+mfet74 1 0 2 2 nch w=6u l=2u
+mfet75 2 29 32 2 nch w=6u l=2u
+mfet76 0 7 2 2 nch w=6u l=2u
+mfet77 2 32 6 2 nch w=6u l=2u
+mfet78 0 5 2 2 nch w=6u l=2u
+mfet79 2 31 28 2 nch w=6u l=2u
+mfet80 2 8 9 2 nch w=6u l=2u
+mfet81 2 25 28 2 nch w=6u l=2u
+mfet82 2 1 8 2 nch w=6u l=2u
+mfet83 2 28 29 2 nch w=6u l=2u
+mfet84 2 11 8 2 nch w=6u l=2u
+mfet85 2 27 24 2 nch w=6u l=2u
+mfet86 2 12 13 2 nch w=6u l=2u
+mfet87 2 21 24 2 nch w=6u l=2u
+mfet88 2 9 12 2 nch w=6u l=2u
+mfet89 2 24 25 2 nch w=6u l=2u
+mfet90 2 15 12 2 nch w=6u l=2u
+mfet91 2 23 20 2 nch w=6u l=2u
+mfet92 2 16 17 2 nch w=6u l=2u
+mfet93 2 17 20 2 nch w=6u l=2u
+mfet94 2 13 16 2 nch w=6u l=2u
+mfet95 2 20 21 2 nch w=6u l=2u
+mfet96 2 19 16 2 nch w=6u l=2u
+.end
+** Net name table **
+*$ erunit.gex/inv1_v2.gex/A	0
+*$ erunit.gex/inv1_v2_special.gex/A	0
+*$ erunit.gex/inv1_v2.gex/Y	0
+*$ erunit.gex/inv1_v2.gex/A	1
+*$ erunit.gex/inv1_v2_special.gex/Y	1
+*$ erunit.gex/inv1_v2.gex/Gnd	2
+*$ erunit.gex/inv1_v2_special.gex/Gnd	2
+*$ erunit.gex/inv1_v2.gex/Vdd	3
+*$ erunit.gex/inv1_v2_special.gex/Vdd	3
+*$ erunit.gex/inv1_v2.gex/A	4
+*$ erunit.gex/inv1_v2.gex/Y	4
+*$ erunit.gex/inv1_v2.gex/A	5
+*$ erunit.gex/inv1_v2.gex/Y	5
+*$ erunit.gex/inv1_v2.gex/A	6
+*$ erunit.gex/inv1_v2_special.gex/Y	6
+*$ erunit.gex/inv1_v2.gex/A	7
+*$ erunit.gex/inv1_v2.gex/Y	7
+*$ erunit.gex/inv1_v2.gex/A	8
+*$ erunit.gex/inv1_v2_special.gex/A	8
+*$ erunit.gex/inv1_v2.gex/Y	8
+*$ erunit.gex/inv1_v2.gex/A	9
+*$ erunit.gex/inv1_v2_special.gex/Y	9
+*$ erunit.gex/inv1_v2.gex/A	10
+*$ erunit.gex/inv1_v2.gex/Y	10
+*$ erunit.gex/inv1_v2.gex/A	11
+*$ erunit.gex/inv1_v2.gex/Y	11
+*$ erunit.gex/inv1_v2.gex/A	12
+*$ erunit.gex/inv1_v2_special.gex/A	12
+*$ erunit.gex/inv1_v2.gex/Y	12
+*$ erunit.gex/inv1_v2.gex/A	13
+*$ erunit.gex/inv1_v2_special.gex/Y	13
+*$ erunit.gex/inv1_v2.gex/A	14
+*$ erunit.gex/inv1_v2.gex/Y	14
+*$ erunit.gex/inv1_v2.gex/A	15
+*$ erunit.gex/inv1_v2.gex/Y	15
+*$ erunit.gex/inv1_v2.gex/A	16
+*$ erunit.gex/inv1_v2_special.gex/A	16
+*$ erunit.gex/inv1_v2.gex/Y	16
+*$ erunit.gex/inv1_v2.gex/A	17
+*$ erunit.gex/inv1_v2_special.gex/Y	17
+*$ erunit.gex/inv1_v2.gex/A	18
+*$ erunit.gex/inv1_v2.gex/Y	18
+*$ erunit.gex/inv1_v2.gex/A	19
+*$ erunit.gex/inv1_v2.gex/Y	19
+*$ erunit.gex/inv1_v2.gex/A	20
+*$ erunit.gex/inv1_v2_special.gex/A	20
+*$ erunit.gex/inv1_v2.gex/Y	20
+*$ erunit.gex/inv1_v2.gex/A	21
+*$ erunit.gex/inv1_v2_special.gex/Y	21
+*$ erunit.gex/inv1_v2.gex/A	22
+*$ erunit.gex/inv1_v2.gex/Y	22
+*$ erunit.gex/inv1_v2.gex/A	23
+*$ erunit.gex/inv1_v2.gex/Y	23
+*$ erunit.gex/inv1_v2.gex/A	24
+*$ erunit.gex/inv1_v2_special.gex/A	24
+*$ erunit.gex/inv1_v2.gex/Y	24
+*$ erunit.gex/inv1_v2.gex/A	25
+*$ erunit.gex/inv1_v2_special.gex/Y	25
+*$ erunit.gex/inv1_v2.gex/A	26
+*$ erunit.gex/inv1_v2.gex/Y	26
+*$ erunit.gex/inv1_v2.gex/A	27
+*$ erunit.gex/inv1_v2.gex/Y	27
+*$ erunit.gex/inv1_v2.gex/A	28
+*$ erunit.gex/inv1_v2_special.gex/A	28
+*$ erunit.gex/inv1_v2.gex/Y	28
+*$ erunit.gex/inv1_v2.gex/A	29
+*$ erunit.gex/inv1_v2_special.gex/Y	29
+*$ erunit.gex/inv1_v2.gex/A	30
+*$ erunit.gex/inv1_v2.gex/Y	30
+*$ erunit.gex/inv1_v2.gex/A	31
+*$ erunit.gex/inv1_v2.gex/Y	31
+*$ erunit.gex/inv1_v2.gex/A	32
+*$ erunit.gex/inv1_v2_special.gex/A	32
+*$ erunit.gex/inv1_v2.gex/Y	32
+*$ erunit.gex/inv1_v2.gex/A	33
+*$ erunit.gex/inv1_v2.gex/Y	33

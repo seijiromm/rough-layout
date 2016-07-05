@@ -1,0 +1,90 @@
+;@DRC@(833 100) element gap<2um
+B 833 100 917 101
+; --> DRC(element gap) in (833,100)x(917,101)
+;@DRC@(917 100) element gap<2um
+B 917 100 919 101
+; --> DRC(element gap) in (917,100)x(919,101)
+;@DRC@(669 100) element gap<2um
+B 669 100 753 101
+; --> DRC(element gap) in (669,100)x(753,101)
+;@DRC@(753 100) element gap<2um
+B 753 100 755 101
+; --> DRC(element gap) in (753,100)x(755,101)
+;@DRC@(505 100) element gap<2um
+B 505 100 589 101
+; --> DRC(element gap) in (505,100)x(589,101)
+;@DRC@(589 100) element gap<2um
+B 589 100 591 101
+; --> DRC(element gap) in (589,100)x(591,101)
+;@DRC@(341 100) element gap<2um
+B 341 100 425 101
+; --> DRC(element gap) in (341,100)x(425,101)
+;@DRC@(425 100) element gap<2um
+B 425 100 427 101
+; --> DRC(element gap) in (425,100)x(427,101)
+;@DRC@(177 100) element gap<2um
+B 177 100 261 101
+; --> DRC(element gap) in (177,100)x(261,101)
+;@DRC@(261 100) element gap<2um
+B 261 100 263 101
+; --> DRC(element gap) in (261,100)x(263,101)
+;@DRC@(13 100) element gap<2um
+B 13 100 97 101
+; --> DRC(element gap) in (13,100)x(97,101)
+;@DRC@(97 100) element gap<2um
+B 97 100 99 101
+; --> DRC(element gap) in (97,100)x(99,101)
+;@DRC@(95 6) element gap<2um
+B 95 6 97 7
+; --> DRC(element gap) in (95,6)x(97,7)
+;@DRC@(13 6) element gap<2um
+B 13 6 95 7
+; --> DRC(element gap) in (13,6)x(95,7)
+;@DRC@(11 6) element gap<2um
+B 11 6 13 7
+; --> DRC(element gap) in (11,6)x(13,7)
+;@DRC@(259 6) element gap<2um
+B 259 6 261 7
+; --> DRC(element gap) in (259,6)x(261,7)
+;@DRC@(177 6) element gap<2um
+B 177 6 259 7
+; --> DRC(element gap) in (177,6)x(259,7)
+;@DRC@(175 6) element gap<2um
+B 175 6 177 7
+; --> DRC(element gap) in (175,6)x(177,7)
+;@DRC@(423 6) element gap<2um
+B 423 6 425 7
+; --> DRC(element gap) in (423,6)x(425,7)
+;@DRC@(341 6) element gap<2um
+B 341 6 423 7
+; --> DRC(element gap) in (341,6)x(423,7)
+;@DRC@(339 6) element gap<2um
+B 339 6 341 7
+; --> DRC(element gap) in (339,6)x(341,7)
+;@DRC@(587 6) element gap<2um
+B 587 6 589 7
+; --> DRC(element gap) in (587,6)x(589,7)
+;@DRC@(505 6) element gap<2um
+B 505 6 587 7
+; --> DRC(element gap) in (505,6)x(587,7)
+;@DRC@(503 6) element gap<2um
+B 503 6 505 7
+; --> DRC(element gap) in (503,6)x(505,7)
+;@DRC@(751 6) element gap<2um
+B 751 6 753 7
+; --> DRC(element gap) in (751,6)x(753,7)
+;@DRC@(669 6) element gap<2um
+B 669 6 751 7
+; --> DRC(element gap) in (669,6)x(751,7)
+;@DRC@(667 6) element gap<2um
+B 667 6 669 7
+; --> DRC(element gap) in (667,6)x(669,7)
+;@DRC@(915 6) element gap<2um
+B 915 6 917 7
+; --> DRC(element gap) in (915,6)x(917,7)
+;@DRC@(833 6) element gap<2um
+B 833 6 915 7
+; --> DRC(element gap) in (833,6)x(915,7)
+;@DRC@(831 6) element gap<2um
+B 831 6 833 7
+; --> DRC(element gap) in (831,6)x(833,7)
